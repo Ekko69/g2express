@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="default_notification_channel_id" translatable="false">2021</string>
-    <string name="app_name">G2Express</string>
-    <string name="facebook_app_id">498328632248140</string>
-    <string name="fb_login_protocol_scheme">fb498328632248140</string>
-    <string name="facebook_client_token">40b7d777aa1f97f426ae17c8c5e6a340</string>
-</resources>
